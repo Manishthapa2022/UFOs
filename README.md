@@ -1,10 +1,10 @@
 # UFOs
 
 ## Overview of the Project
-In this project we have been tasked to create a table to organize UFO data. The table will have in depth analysis of UFO sightings and will allow users to flter data based on certain criteria such as date, city, state, country and shape. The primary coding language used here is Javascript and we will also have to apply our HTML and Bootstrap skills. 
+UFO webpage and dynamic table created by Dana are working as intended, but we have been tasked to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, we will add table filters for the city, state, country, and shape. 
 
 ## Results
-A webpage was created through which the users can get detailed analysis of the UFO sightings based on various search criterias. 
+Using Javascript and HTML, the webpage was modified so that the users can get detailed analysis of the UFO sightings based on various search criterias such as city, state, country and shape, apart from the date filter which was already present. 
 
 ![Home Page](https://github.com/Manishthapa2022/UFOs/blob/main/static/images/Initial_page.png)
 
